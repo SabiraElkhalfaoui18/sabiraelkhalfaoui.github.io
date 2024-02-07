@@ -4,69 +4,129 @@ layout: default
 
 <div class="navbar">
   <ul>
-    <li><a href="./index.md">Home</a></li>
+    <li><a href="./index.html">Home</a></li>
     <li><a href="./cv.html" class="active">CV</a></li>
     <li><a href="./research.html">Research</a></li>
     <li><a href="./publications.html">Publications</a></li>
   </ul>
 </div>
 
-### Here is an unordered list:
+# Sabira El Khalfaoui
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+- **Date of Birth:** 03/02/1991
+- **Nationality:** Moroccan
+- **Home:** 35000, Rennes, France
+- **Email:** 
+  - sabiraelkhalfaoui@gmail.com
+  - sabira.elkhalfaoui@univ-rennes.fr
+- **Phone:** (+33) 774658173
 
-### And an ordered list:
+## About Me
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+Highly motivated and research-driven expert with proficiency in code-based cryptography, seeking to leverage my skills and knowledge to contribute to cybersecurity solutions in the post-quantum era within an industry setting. Currently a postdoctoral researcher in the GAE team at IRMAR, University of Rennes.
 
-### And a nested list:
+## Work Experience
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+### Post-doctoral Researcher in Code-Based Cryptography
+- **Employer:** University of Rennes1, IRMAR
+- **City:** Rennes
+- **Country:** France
+- **Duration:** 01/03/2022 – Current
+- **Description:**
+  - Main project focuses on proposing a new variant of CFS code-based digital signatures.
+  - Significant findings include a distinguisher attack against the McEliece cryptosystem based on algebraic geometry codes.
+  - Engaged in ongoing projects developing a novel code-based signature scheme and exploring the utilization of 1-point Hermitian codes for CFS digital signatures.
+  - Presented research findings at conferences and workshops.
 
-### Small image
+### Researcher
+- **Employer:** SZTE TTIK, Bolyai Institute
+- **City:** Szeged
+- **Country:** Hungary
+- **Duration:** 30/09/2020 – 29/06/2021
+- **Description:**
+  - Conducted extensive security analysis for parameter selection in 1-point Hermitian subfield subcodes for the McEliece cryptosystem.
+  - Collaborated on the SETIT-IoT research project and presented comparative studies with the McEliece cryptosystem submitted to NIST.
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+### Junior Researcher
+- **Employer:** SZTE TTIK, Bolyai Institute
+- **City:** Szeged
+- **Country:** Hungary
+- **Duration:** 31/10/2018 – 30/08/2020
+- **Description:**
+  - Conducted mathematical analysis and simulations to enhance the effectiveness of the McEliece cryptosystem.
+  - Actively contributed to research initiatives centered around security technologies for IoT.
 
-### Large image
+## Education and Training
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+### PhD in Mathematics and Computer Science
+- **Institution:** Bolyai Institute, University of Szeged
+- **City:** Szeged
+- **Country:** Hungary
+- **Duration:** 31/08/2016 – 30/08/2020
+- **Description:**
+  - Specialized in algebraic geometry codes and their practical applications in cryptography (Code-based cryptography).
+  - Presented research findings at conferences and workshops.
 
+### MSc in Mathematics, Cryptology and Computer Security
+- **Institution:** Ecole Normale Supérieure, University of Hassan II
+- **City:** Casablanca
+- **Country:** Morocco
+- **Duration:** 31/08/2014 – 30/07/2016
+- **Description:**
+  - Graduated with advanced knowledge in cryptography.
+  - Authored a Master's thesis on Homomorphic Encryption.
 
-### Definition lists can be used with HTML syntax.
+## Winter/Summer Schools and Conferences
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+- **Journées Codage et Cryptographie (C2) 2023**
+  - Talk entitled: "A code-based digital signature scheme for post-quantum security (Ongoing project)"
+  - Date: 16/10/2023 – 20/10/2023
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+- **Central European Conference on Cryptology 2021**
+  - Talk entitled: Towards the security of McEliece's cryptosystem based on Hermitian subfield subcodes.
+  - Date: 22/06/2021 – 24/06/2021
+  - Location: Debrecen, Hungary
 
-```
-The final element.
-```
+- **Developments in Computer Science Conference 2021**
+  - Talk entitled: Selecting secure parameters of subfield subcodes of Hermitian codes for post-quantum schemes.
+  - Date: 16/06/2021 – 18/06/2021
+  - Location: Budapest, Hungary
+
+- **Mini-Workshop Of SETIT IoT Project**
+  - Talk entitled: Subfield subcodes based post-quantum cryptography.
+  - Date: 03/06/2021
+  - Location: Szeged, Hungary
+
+- **SUMMER SCHOOL ON FINITE GEOMETRY AND FRIENDS**
+  - Date: 16/06/2019 – 20/06/2019
+  - Location: Brussels, Belgium
+
+- **Combinatorics Seminar**
+  - Talk entitled "Digital signature schemes" (Signature scheme based on McEliece cryptosystem).
+  - Date: 10/04/2019
+  - Location: Szeged, Hungary
+
+## Publications
+
+- **2020:** On the dimension of the subfield subcodes of 1-point Hermitian codes
+- **2020:** Estimating The Dimension Of The Subfield Subcodes of Hermitian Codes Hermitian GAP Package
+- **2020:** Dissertation: On the dimension of the subfield subcodes of Hermitian codes
+- **2021:** Selecting Secure Parameters of Subfield Subcodes of Hermitian Codes for Post-Quantum Schemes (Conference Proceeding)
+- **2021:** Towards the Security of McEliece's Cryptosystem Based on Hermitian Subfield Subcodes (Conference Proceeding)
+- **2023:** Goppa-like AG codes from C_{a,b} curves and their behaviour under squaring their dual (Accepted IEEEtran)
+
+## Languages
+
+- Arabic: Mother Tongue
+- French: Advanced
+- English: Advanced
+- Italian: Elementary
+
+## Digital Skills
+
+- Computation skills
+- GAP System
+- Java Programming language
+- Python programming language and some knowledge in MATLAB
+- Data Analysis
+- C programming

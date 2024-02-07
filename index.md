@@ -4,7 +4,7 @@ layout: default
 
 <div class="navbar">
   <ul>
-    <li><a href="./index.md" class="active">Home</a></li>
+    <li><a href="./index.html" class="active">Home</a></li>
     <li><a href="./cv.html">CV</a></li>
     <li><a href="./research.html">Research</a></li>
     <li><a href="./publications.html">Publications</a></li>
