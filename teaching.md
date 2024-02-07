@@ -14,20 +14,4 @@ layout: default
 
 # TEACHING
 
-### PhD in Mathematics and Computer Science
-- **Institution:** Bolyai Institute, University of Szeged
-- **City:** Szeged
-- **Country:** Hungary
-- **Duration:** 31/08/2016 – 30/08/2020
-- **Description:**
-  - Specialized in algebraic geometry codes and their practical applications in cryptography (Code-based cryptography).
-  - Presented research findings at conferences and workshops.
-
-### MSc in Mathematics, Cryptology and Computer Security
-- **Institution:** Ecole Normale Supérieure, University of Hassan II
-- **City:** Casablanca
-- **Country:** Morocco
-- **Duration:** 31/08/2014 – 30/07/2016
-- **Description:**
-  - Graduated with advanced knowledge in cryptography.
-  - Authored a Master's thesis on Homomorphic Encryption.
+### 01/03/2023 – 04/2023: Teaching Assistant in Cryptography, University of Rennes, IRMAR

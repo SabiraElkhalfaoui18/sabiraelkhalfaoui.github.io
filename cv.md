@@ -22,22 +22,13 @@ layout: default
   - sabira.elkhalfaoui@univ-rennes.fr
 - **Phone:** (+33) 774658173
 
-## About Me
-
-Highly motivated and research-driven expert with proficiency in code-based cryptography, seeking to leverage my skills and knowledge to contribute to cybersecurity solutions in the post-quantum era within an industry setting. Currently a postdoctoral researcher in the GAE team at IRMAR, University of Rennes.
 
 ## Work Experience
 
-### Post-doctoral Researcher in Code-Based Cryptography
-- **Employer:** University of Rennes1, IRMAR
-- **City:** Rennes
-- **Country:** France
-- **Duration:** 01/03/2022 – Current
-- **Description:**
-  - Main project focuses on proposing a new variant of CFS code-based digital signatures.
-  - Significant findings include a distinguisher attack against the McEliece cryptosystem based on algebraic geometry codes.
-  - Engaged in ongoing projects developing a novel code-based signature scheme and exploring the utilization of 1-point Hermitian codes for CFS digital signatures.
-  - Presented research findings at conferences and workshops.
+### 01/03/2022 – Current: Post-doctoral Researcher in Code-Based Cryptography,
+   Research group GAE, IRMAR, UFR,  University of Rennes.
+
+
 
 ### Researcher
 - **Employer:** SZTE TTIK, Bolyai Institute
