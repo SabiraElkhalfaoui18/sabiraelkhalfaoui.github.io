@@ -18,7 +18,7 @@ layout: default
 
 #### [2020] [Estimating The Dimension Of The Subfield Subcodes of Hermitian Codes](https://europa.eu/europass/eportfolio/screen/redirect-external?url=https://cyber.bibl.u-szeged.hu/index.php/actcybern/article/view/4137)  
 
-- [Hermitian GAP Package](https://europa.eu/europass/eportfolio/screen/redirect-external?url=https://github.com/nagygp/Hermitian/blob/master/doc/manual.pdf)
+#### [Hermitian GAP Package](https://europa.eu/europass/eportfolio/screen/redirect-external?url=https://github.com/nagygp/Hermitian/blob/master/doc/manual.pdf)
 
 #### [2020] [Dissertation: On the dimension of the subfield subcodes of Hermitian codes](https://europa.eu/europass/eportfolio/screen/redirect-external?url=http://doktori.bibl.u-szeged.hu/10475/)  
 
