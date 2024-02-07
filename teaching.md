@@ -14,7 +14,7 @@ layout: default
 
 # TEACHING
 
-## PhD in Mathematics and Computer Science
+### PhD in Mathematics and Computer Science
 - **Institution:** Bolyai Institute, University of Szeged
 - **City:** Szeged
 - **Country:** Hungary
@@ -23,7 +23,7 @@ layout: default
   - Specialized in algebraic geometry codes and their practical applications in cryptography (Code-based cryptography).
   - Presented research findings at conferences and workshops.
 
-## MSc in Mathematics, Cryptology and Computer Security
+### MSc in Mathematics, Cryptology and Computer Security
 - **Institution:** Ecole Normale Supérieure, University of Hassan II
 - **City:** Casablanca
 - **Country:** Morocco
