@@ -13,7 +13,7 @@ layout: default
 </div>
 
 
-![Cover](assets/img/cover.jpg)
+![Cover](assets/img/homeCover.jpg)
 
 # ABOUT ME
 
