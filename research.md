@@ -8,7 +8,7 @@ layout: default
     <li><a href="./cv.html">CV</a></li>
     <li><a href="./research.html" class="active">Research</a></li>
     <li><a href="./publications.html">Publications</a></li>
-    <li><a href="./teaching.html">Publications</a></li>
+    <li><a href="./teaching.html">Teaching</a></li>
   </ul>
 </div>
 
