@@ -56,8 +56,10 @@ a:hover small {
 }
 
 .wrapper {
-  width:860px;
+  width:100%;
   margin:0 auto;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 blockquote {
@@ -225,7 +227,7 @@ footer {
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
-    width:auto;
+    width:100%;
     margin:0;
   }
 
@@ -235,15 +237,16 @@ footer {
     width:auto;
   }
 
-  header {
-    padding-right:320px;
-  }
+  // header {
+  //   padding-right:320px;
+  // }
 
   section {
     border:1px solid #e5e5e5;
     border-width:1px 0;
     padding:20px 0;
-    margin:0 0 20px;
+    margin:20px 0;
+    width: 100%;
   }
 
   header a small {
