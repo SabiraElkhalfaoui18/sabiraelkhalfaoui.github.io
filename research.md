@@ -12,46 +12,21 @@ layout: default
   </ul>
 </div>
 
+# RESEARCH
 
-![Cover](assets/img/cover.jpg)
+- [2020] [On the dimension of the subfield subcodes of 1-point Hermitian codes](https://europa.eu/europass/eportfolio/screen/redirect-external?url=https://www.aimsciences.org/article/doi/10.3934/amc.2020054)  
 
-# ABOUT ME
+- [2020] [Estimating The Dimension Of The Subfield Subcodes of Hermitian Codes](https://europa.eu/europass/eportfolio/screen/redirect-external?url=https://cyber.bibl.u-szeged.hu/index.php/actcybern/article/view/4137)  
 
-Highly motivated and research-driven expert with proficiency in code-based cryptography, seeking to leverage my skills and knowledge to contribute to cybersecurity solutions in the post-quantum era within an industry setting.
+- [Hermitian GAP Package](https://europa.eu/europass/eportfolio/screen/redirect-external?url=https://github.com/nagygp/Hermitian/blob/master/doc/manual.pdf)
 
-I am currently a postdoctoral researcher in the GAE team at IRMAR, University of Rennes.
+- [2020] [Dissertation: On the dimension of the subfield subcodes of Hermitian codes](https://europa.eu/europass/eportfolio/screen/redirect-external?url=http://doktori.bibl.u-szeged.hu/10475/)  
 
-On September 14, 2020, I completed my Ph.D. in mathematics and computer science at the University of Szeged, under the supervision of Gabor P. Nagy.
+- [2021] [Selecting Secure Parameters of Subfield Subcodes of Hermitian Codes for Post-Quantum Schemes](https://europa.eu/europass/eportfolio/screen/redirect-external?url=http://dcs.elte.hu/)  
+  Conference Proceeding
 
-My research primarily focuses on error-correcting codes from algebraic geometry and their applications in cryptography.
+- [2021] [Towards the Security of McEliece's Cryptosystem Based on Hermitian Subfield Subcodes](https://europa.eu/europass/eportfolio/screen/redirect-external?url=http://sibecrypt.ru/en)  
+  Conference Proceeding
 
-## WORK EXPERIENCE
-- Post-doctoral Researcher in Code-Based Cryptography, University of Rennes1, IRMAR
-- Researcher, SZTE TTIK, Bolyai Intitute
-- Junior Researcher, SZTE TTIK, Bolyai Institute
-
-## EDUCATION AND TRAINING
-- PhD in Mathematics and Computer Science, Bolyai Institute, University of Szeged
-- MSc in Mathematics, Cryptology and Computer Security, Ecole Normale Supérieure, University of Hassan II
-
-## WINTER/ SUMMER SCHOOLS AND CONFERENCES
-- Journées Codage et Cryptographie (C2) 2023
-- Central European Conference on Cryptology 2021, Debrecen, Hungary
-- Developments in Computer Science Conference, Budapest, Hungary
-- Mini-Workshop Of SETIT IoT Project, Szeged, Hungary University of Szeged, Hungary.
-- SUMMER SCHOOL ON FINITE GEOMETRY AND FRIENDS. Vrjie Universiteit Brussel, Doctoral School of Natural Sciences and Engineering.
-- Combinatorics Seminar, Szeged, Hungary University of Szeged.
-
-## LANGUAGES
-- Arabic: Mother Tongue
-- French: Advanced
-- English: Advanced
-- Italian: Elementary
-
-## DIGITAL SKILLS
-- Computation skills
-- GAP System
-- Java Programming language
-- Python programming language and some knowledge in MATLAB
-- Data Analysis
-- C programming
+- [2023] [Goppa-like AG codes from C_{a,b} curves and their behaviour under squaring their dual](https://europa.eu/europass/eportfolio/screen/redirect-external?url=https://arxiv.org/abs/2303.08687)  
+  Accepted (IEEEtran)
