@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![Cover](assets/img/cover.jpg)
+
 # ABOUT ME
 
 Highly motivated and research-driven expert with proficiency in code-based cryptography, seeking to leverage my skills and knowledge to contribute to cybersecurity solutions in the post-quantum era within an industry setting.
