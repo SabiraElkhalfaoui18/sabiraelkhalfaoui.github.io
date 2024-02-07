@@ -14,19 +14,19 @@ layout: default
 
 # PUBLICATIONS
 
-- [2020] [On the dimension of the subfield subcodes of 1-point Hermitian codes](https://example.com/publication1)  
+- [2020] [On the dimension of the subfield subcodes of 1-point Hermitian codes](https://europa.eu/europass/eportfolio/screen/redirect-external?url=https://www.aimsciences.org/article/doi/10.3934/amc.2020054)  
+
+- [2020] [Estimating The Dimension Of The Subfield Subcodes of Hermitian Codes](https://europa.eu/europass/eportfolio/screen/redirect-external?url=https://cyber.bibl.u-szeged.hu/index.php/actcybern/article/view/4137)  
+
+- [Hermitian GAP Package](https://europa.eu/europass/eportfolio/screen/redirect-external?url=https://github.com/nagygp/Hermitian/blob/master/doc/manual.pdf)
+
+- [2020] [Dissertation: On the dimension of the subfield subcodes of Hermitian codes](https://europa.eu/europass/eportfolio/screen/redirect-external?url=http://doktori.bibl.u-szeged.hu/10475/)  
+
+- [2021] [Selecting Secure Parameters of Subfield Subcodes of Hermitian Codes for Post-Quantum Schemes](https://europa.eu/europass/eportfolio/screen/redirect-external?url=http://dcs.elte.hu/)  
   Conference Proceeding
 
-- [2020] [Estimating The Dimension Of The Subfield Subcodes of Hermitian Codes Hermitian GAP Package](https://example.com/publication2)  
+- [2021] [Towards the Security of McEliece's Cryptosystem Based on Hermitian Subfield Subcodes](https://europa.eu/europass/eportfolio/screen/redirect-external?url=http://sibecrypt.ru/en)  
   Conference Proceeding
 
-- [2020] [Dissertation: On the dimension of the subfield subcodes of Hermitian codes](https://example.com/publication3)  
-
-- [2021] [Selecting Secure Parameters of Subfield Subcodes of Hermitian Codes for Post-Quantum Schemes](https://example.com/publication4)  
-  Conference Proceeding
-
-- [2021] [Towards the Security of McEliece's Cryptosystem Based on Hermitian Subfield Subcodes](https://example.com/publication5)  
-  Conference Proceeding
-  
-- [2023] [Goppa-like AG codes from C_{a,b} curves and their behaviour under squaring their dual](https://example.com/publication6)  
+- [2023] [Goppa-like AG codes from C_{a,b} curves and their behaviour under squaring their dual](https://europa.eu/europass/eportfolio/screen/redirect-external?url=https://arxiv.org/abs/2303.08687)  
   Accepted (IEEEtran)
