@@ -301,22 +301,9 @@ footer {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  overflow: hidden;
-  background-color: #333; /* Set the background color of the navbar */
-}
-
-.navbar li {
-  float: left; /* Display list items horizontally */
-}
-
-.navbar li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-.navbar li a:hover {
-  background-color: #111; /* Change background color on hover */
+  margin-bottom: 20px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
