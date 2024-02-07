@@ -4,9 +4,9 @@ layout: default
 
 <div class="navbar">
   <ul>
-    <li><a href="./index.html" class="active">Home</a></li>
+    <li><a href="./index.html">Home</a></li>
     <li><a href="./cv.html">CV</a></li>
-    <li><a href="./research.html">Research</a></li>
+    <li><a href="./research.html" class="active">Research</a></li>
     <li><a href="./publications.html">Publications</a></li>
     <li><a href="./teaching.html">Publications</a></li>
   </ul>
