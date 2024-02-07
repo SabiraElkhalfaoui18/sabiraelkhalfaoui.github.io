@@ -12,16 +12,16 @@ On September 14, 2020, I completed my Ph.D. in mathematics and computer science 
 
 My research primarily focuses on error-correcting codes from algebraic geometry and their applications in cryptography.
 
-# WORK EXPERIENCE
+## WORK EXPERIENCE
 - Post-doctoral Researcher in Code-Based Cryptography, University of Rennes1, IRMAR
 - Researcher, SZTE TTIK, Bolyai Intitute
 - Junior Researcher, SZTE TTIK, Bolyai Institute
 
-# EDUCATION AND TRAINING
+## EDUCATION AND TRAINING
 - PhD in Mathematics and Computer Science, Bolyai Institute, University of Szeged
 - MSc in Mathematics, Cryptology and Computer Security, Ecole Normale Supérieure, University of Hassan II
 
-# WINTER/ SUMMER SCHOOLS AND CONFERENCES
+## WINTER/ SUMMER SCHOOLS AND CONFERENCES
 - Journées Codage et Cryptographie (C2) 2023
 - Central European Conference on Cryptology 2021, Debrecen, Hungary
 - Developments in Computer Science Conference, Budapest, Hungary
@@ -29,13 +29,13 @@ My research primarily focuses on error-correcting codes from algebraic geometry 
 - SUMMER SCHOOL ON FINITE GEOMETRY AND FRIENDS. Vrjie Universiteit Brussel, Doctoral School of Natural Sciences and Engineering.
 - Combinatorics Seminar, Szeged, Hungary University of Szeged.
 
-# LANGUAGES
+## LANGUAGES
 - Arabic: Mother Tongue
 - French: Advanced
 - English: Advanced
 - Italian: Elementary
 
-# DIGITAL SKILLS
+## DIGITAL SKILLS
 - Computation skills
 - GAP System
 - Java Programming language
