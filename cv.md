@@ -17,6 +17,7 @@ layout: default
 ## Work Experience
 
  **01/03/2022 – Current:** Post-doctoral Researcher in Coding Theory and Code-Based Cryptography, Research group GAE, IRMAR, UFR,  University of Rennes.
+
  **30/09/2020 – 29/06/2021** Researcher in Coding Theory and Code-Based Cryptography,Bolyai Institute, University of Szeged, Hungary 
 
  **31/10/2018 – 30/08/2020:** Junior Researcher in Coding Theory and Code-Based Cryptography,Bolyai Institute, University of Szeged, Hungary
@@ -25,11 +26,10 @@ layout: default
 
  **31/08/2016 – 30/08/2020:** PhD in Mathematics and Computer Science, Bolyai Institute, University of Szeged, Hungary
 
-
  **31/08/2014 – 30/07/2016:** MSc in Mathematics, Cryptology and Computer Security, Ecole Normale Supérieure, University of Hassan II, Morocco
 
 
-## Winter/Summer Schools and Conferences
+## Some Conferences
 
 - **Journées Codage et Cryptographie (C2), 16 - 20 October 2023**
   **Talk entitled:** A code-based digital signature scheme for post-quantum security (Ongoing project)
