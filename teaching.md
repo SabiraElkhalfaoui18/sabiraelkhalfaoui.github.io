@@ -14,4 +14,4 @@ layout: default
 
 # TEACHING
 
-### 01/03/2023 – 04/2023: Teaching Assistant in Cryptography, University of Rennes, IRMAR
+ **01/03/2023 – 04/2023:** Teaching Assistant, Introduction to Cryptography, University of Rennes, IRMAR
