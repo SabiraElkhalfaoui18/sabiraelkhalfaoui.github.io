@@ -14,4 +14,4 @@ layout: default
 
 # RESEARCH
 
-My research spans mathematics, coding theory, cryptography, and computer algebra. I explore the intersection of mathematics and computer science, with a particular focus on information theory. Additionally, I am intrigued by quantum error-correcting codes.
+My research spans mathematics, coding theory, cryptography, and computer algebra. Additionally, I am intrigued by quantum error-correcting codes.
