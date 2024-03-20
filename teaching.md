@@ -6,12 +6,12 @@ layout: default
   <ul>
     <li><a href="./index.html">Home</a></li>
     <li><a href="./cv.html">CV</a></li>
-    <li><a href="./research.html">Research</a></li>
+    <!--li><a href="./research.html">Research</a></li-->
     <li><a href="./publications.html">Publications</a></li>
-    <li><a href="./teaching.html" class="active">Teaching</a></li>
+    <!--li><a href="./teaching.html" class="active">Teaching</a></li-->
   </ul>
 </div>
 
-# TEACHING
+<!--# TEACHING
 
- **01/03/2023 – 04/2023:** Teaching Assistant, Introduction to Cryptography, University of Rennes, IRMAR
+ **01/03/2023 – 04/2023:** Teaching Assistant, Introduction to Cryptography, University of Rennes, IRMAR-->
