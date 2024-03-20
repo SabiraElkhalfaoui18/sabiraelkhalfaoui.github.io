@@ -17,7 +17,9 @@ layout: default
 ## Work Experience
 
  **01/03/2022 – 29/02/2024:** Post-doctoral Researcher in Coding Theory and Code-Based Cryptography, Research group GAE, IRMAR, UFR,  University of Rennes.
+
  **01/03/2023 – 04/2023:** Teaching Assistant, Introduction to Cryptography (Exercices), University of Rennes, IRMAR.
+ 
  **30/09/2020 – 29/06/2021** Researcher in Coding Theory and Code-Based Cryptography,Bolyai Institute, University of Szeged, Hungary. 
 
  **31/10/2018 – 30/08/2020:** Junior Researcher in Coding Theory and Code-Based Cryptography,Bolyai Institute, University of Szeged, Hungary.
