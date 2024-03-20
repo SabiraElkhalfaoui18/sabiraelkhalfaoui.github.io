@@ -6,9 +6,9 @@ layout: default
   <ul>
     <li><a href="./index.html">Home</a></li>
     <li><a href="./cv.html">CV</a></li>
-    <li><a href="./research.html">Research</a></li>
+    <!--li><a href="./research.html">Research</a></li-->
     <li><a href="./publications.html" class="active">Publications</a></li>
-    <li><a href="./teaching.html">Teaching</a></li>
+    <!--li><a href="./teaching.html">Teaching</a></li-->
   </ul>
 </div>
 
