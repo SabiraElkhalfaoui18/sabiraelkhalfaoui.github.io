@@ -6,9 +6,9 @@ layout: default
   <ul>
     <li><a href="./index.html">Home</a></li>
     <li><a href="./cv.html" class="active">CV</a></li>
-    <li><a href="./research.html">Research</a></li>
+    <!--li><a href="./research.html">Research</a></li-->
     <li><a href="./publications.html">Publications</a></li>
-    <li><a href="./teaching.html">Teaching</a></li>
+    <!--li><a href="./teaching.html">Teaching</a></li-->
   </ul>
 </div>
 
@@ -29,11 +29,15 @@ layout: default
  **31/08/2014 – 30/07/2016:** MSc in Mathematics, Cryptology and Computer Security, Ecole Normale Supérieure, University of Hassan II, Morocco
 
 
-## Some Conferences
+## Some Conferences and Seminars
 
 - **Journées Codage et Cryptographie (C2), 16 - 20 October 2023**
   **Talk entitled:** A code-based digital signature scheme for post-quantum security (Ongoing project)
-  
+- **Séminaire Géométrie et algèbre effectives, IRMAR RENNES**
+  **Talk entitled:** Goppa–Like AG Codes From $C_{a,b}$ Curves And Their
+Behaviour Under Squaring Their Duals
+- **Journée de l’IRMAR 30 mai 2023**
+  **Talk entitled:** Goppa–Like AG Codes On $C_{a,b}$ Curves
 - **Central European Conference on Cryptology, 22 - 24 June 2021, Debrecen, Hungary**
    **Talk entitled:** Towards the security of McEliece's cryptosystem based on Hermitian subfield subcodes.
   
