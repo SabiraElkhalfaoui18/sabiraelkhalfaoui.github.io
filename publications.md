@@ -27,4 +27,4 @@ layout: default
 #### [2021] [Towards the Security of McEliece's Cryptosystem Based on Hermitian Subfield Subcodes](https://europa.eu/europass/eportfolio/screen/redirect-external?url=http://sibecrypt.ru/en)  
  
 #### [2023] [Goppa-like AG codes from C_{a,b} curves and their behaviour under squaring their dual](https://europa.eu/europass/eportfolio/screen/redirect-external?url=https://arxiv.org/abs/2303.08687)  
-
+#### [2024] [On the Dimension of Hermitian Subfield Subcodes From Higher Degree Place (Submitted in March 2024)]
