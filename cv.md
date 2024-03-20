@@ -34,21 +34,27 @@ layout: default
 ## Some Conferences and Seminars
 
 - **Journées Codage et Cryptographie (C2), 16 - 20 October 2023**
+
     **Talk entitled:** A code-based digital signature scheme for post-quantum security (Ongoing project).
 
 - **GAE Seminar: Séminaire Géométrie et algèbre effectives, IRMAR Rennes, 5 May 2023**
+
     **Talk entitled:** Goppa–Like AG Codes From $C_{a,b}$ Curves And Their Behaviour Under Squaring Their Duals.
-    
+
 - **Journée de l’IRMAR, Rennes 30 May 2023**
+
     **Talk entitled:** Goppa–Like AG Codes On $C_{a,b}$ Curves.
 
 - **Central European Conference on Cryptology, 22 - 24 June 2021, Debrecen, Hungary**
+
    **Talk entitled:** Towards the security of McEliece's cryptosystem based on Hermitian subfield subcodes.
   
 - **Developments in Computer Science Conference 16 - 18 June 2021**
+
    **Talk entitled:** Selecting secure parameters of subfield subcodes of Hermitian codes for post-quantum schemes.
 
 - **Combinatorics Seminar, 10 April 2019, Szeged, Hungary**
+
    **Talk entitled:** Digital signature schemes (Signature scheme based on McEliece cryptosystem).
 
 
